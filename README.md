@@ -9,7 +9,7 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Print do console do navegador
 
-![Print console](img\print1.png) 
+![Print console](img/print1.png) 
 
 
 
