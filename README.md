@@ -4,12 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Bernardo Alvim Fagundes de Andrade 
+- Matricula: 908610
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print console](img\print1.png) 
 
 
 
